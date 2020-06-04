@@ -1,6 +1,6 @@
 pipeline {
   stages {
-    stage("first"){
+    stage('first'){
       echo "This is just a test"
     }
   
